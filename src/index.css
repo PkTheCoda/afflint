@@ -52,4 +52,16 @@
   .transition300scale {
     @apply transition transform duration-300 hover:scale-[1.03]
   }
+
+  .bg-main {
+    @apply bg-[#FBFAF9]
+  }
+
+  .text-secondary {
+    @apply text-[#E16741]
+  }
+
+  .button-main {
+    @apply bg-[#37322F]
+  }
 }
